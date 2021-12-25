@@ -1,0 +1,24 @@
+{
+  "name": "calculo_viagem",
+  "version": "1.0.0",
+  "description": "Desafio lógico para processo seletivo.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayhsn/calculo_viagem.git"
+  },
+  "keywords": [],
+  "author": "Tayanne Silva Novais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tayhsn/calculo_viagem/issues"
+  },
+  "homepage": "https://github.com/tayhsn/calculo_viagem#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
